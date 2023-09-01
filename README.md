@@ -26,8 +26,8 @@
 - The project is open for contributions. You can make an issue or assign yourselves one and then can start working on it. The project uses pytorch, transformers and gradio. While making a pull request, make sure to pr to the dev branch rather than the master branch.
 
 ## Thanks to all Contributors
-<a href = "https://github.com/mananchawla2005/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=mananchawla2005/mediviser"/>
+<a href = "https://github.com/teamneuralnexus/developer-roadmap/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=teamneuralnexus/mediviser"/>
  </a>
 
 
